@@ -30,4 +30,4 @@ main.py          — runs the full ETL
 Run streamlit run dashboard.py to launch an interactive dashboard showing 7-day temperature, humidity, wind speed, and comfort level breakdowns.
 
 ## What I learned
-Utilizing Claude Code I was able to optimize the weather data for my current location (Honoloulu, HI) to take unstructured, messy data, then transform it into structured data and finally showcase the data and code in a dashboard. I learned how to utilize python in VS Code and push all commands and files into Github.
+Optimized weather data for my current location (Honoloulu, HI) to take unstructured, messy data, then transform it into structured data and finally showcase the data and code in a dashboard. I learned how to utilize python in VS Code and push all commands and files into Github.
